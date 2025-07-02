@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: grin.ceo
 baseurl: "/home/transatoshi/grin-ceo/" # the subpath of your site, e.g. /blog
 url: "https://grin.ceo" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  transatoshi-mw
 
 # Build settings
