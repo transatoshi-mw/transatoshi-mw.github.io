@@ -1,0 +1,21 @@
+
+.title {
+  font-family: Helvetica, sans-serif;
+  font-size: 56px;
+  font-weight: 800;
+  text-align: center;
+  margin: 0 auto;
+  width: 500px;
+  color: aqua;
+  background-color: #0c0c0c;
+}
+body, html {
+  height: 100%;
+}
+.bgimg {
+  background-image: url('images/background.png');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-color: #0c0c0c;
+}
